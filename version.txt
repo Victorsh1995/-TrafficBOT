@@ -1,0 +1,2 @@
+2.7
+https://raw.githubusercontent.com/Victorsh1995/-TrafficBOT/main/firmware.bin
