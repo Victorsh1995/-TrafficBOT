@@ -1,2 +1,2 @@
-2.7
+2.8
 https://raw.githubusercontent.com/Victorsh1995/-TrafficBOT/main/Local.bin
